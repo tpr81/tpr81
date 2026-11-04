@@ -1,5 +1,4 @@
-<h1 align="center">Oi, eu sou o Lucas 👋</h1>
-<h3 align="center">@tpr81 — Linux, hardware, programação e agentes de IA</h3>
+<h1 align="center">@tpr81 — Linux, hardware, programação e agentes de IA</h3>
 
 <p align="center">
   <a href="https://github.com/tpr81/Caius-AI">
