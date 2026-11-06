@@ -1,4 +1,4 @@
-<h1 align="center">@tpr81 — Linux, hardware, programação e agentes de IA</h3>
+<h1 align="center">@tpr81 — Linux, hardware, programação e IA</h3>
 
 <p align="center">
   <a href="https://github.com/tpr81/Caius-AI">
